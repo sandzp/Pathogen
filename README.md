@@ -1,4 +1,8 @@
-**Introduction**
+# Pathogen: A Text Based Disease Simulator/Game
+
+## Sandip S Panesar MD MSc, UCB MIDS w200, Summer 2020 Cohort
+
+### Introduction
 
 This was created as an object-oriented programming assignment for my Python class for the 
 UC Berkeley Master of Information and Data Science course. 
@@ -15,7 +19,7 @@ user plays the role of the pathogen, and can choose between either a virus or ba
 of the pathogen (player) is to kill the host by invading certain organs, defeating the immune
 defenses and then replicating within the organ.
 
-**User Instructions:**
+### User Instructions
 1. From the command line, enter the folder which the Pathogen.py file is contained, and
 run using Python 3. The entire program is contained within the .py file without requiring
 any external modules.
