@@ -1,4 +1,4 @@
-# Pathogen!: A Text Based Disease Simulator/Game
+# Pathogen!: A Text-Based Disease Simulator/Game
 
 ## By Sandip S Panesar MD MSc (w200 Summer 2020 Cohort)
 
