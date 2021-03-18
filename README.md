@@ -1,6 +1,6 @@
 # Pathogen: A Text-Based Disease Simulator/Game
 
-## By Sandip S Panesar MD MSc (w200 Summer 2020 Cohort)
+## By Sandip S Panesar
 
 ### Introduction
 
