@@ -1,16 +1,9 @@
-# Pathogen!: A Text-Based Disease Simulator/Game
+# Pathogen: A Text-Based Disease Simulator/Game
 
 ## By Sandip S Panesar MD MSc (w200 Summer 2020 Cohort)
 
 ### Introduction
 
-This was created as an object-oriented programming assignment for my Python class for the 
-UC Berkeley Master of Information and Data Science course. 
-The program had to solely utilize class-based objects that interacted with one another. 
-
-
-I created a semi-educational, text-based simulation entitled “Pathogen!”
-The inspiration for this game came from the COVID-19 pandemic occurring in the first half of 2020.
 As I am a physician by background, another reason why I wanted to create a health-based,
 object-oriented program is that I hope it will serve me as a very rough template of how I may
 approach similar situations in my future professional work in medical data science. What
